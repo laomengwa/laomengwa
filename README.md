@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+欢迎欺负这条老实鱼🐟
+
+（不会写代码的咸鱼🐟）……
+
 <!--
 **laomengwa/laomengwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
